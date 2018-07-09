@@ -1,0 +1,1 @@
+Sample mysql queries for the Manchester Digital apprentice bootcamp on databases.
